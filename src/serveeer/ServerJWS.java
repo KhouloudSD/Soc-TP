@@ -1,4 +1,4 @@
-package Serveeer;
+package serveeer;
 
 import classes.BanqueService;
 
